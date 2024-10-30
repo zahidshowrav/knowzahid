@@ -9,7 +9,7 @@ A simple Node CLI tool that displays the bio of Zahid R. Showrav in the terminal
 
 ## Usage
 
-You can use this CLI tool directly with `npx` without installing it globally and you can get me in your terminal:
+To run the tool, simply enter the following command in your terminal and you will get me in the terminal:
 
 ```bash
 npx knowzahid

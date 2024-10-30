@@ -1,6 +1,6 @@
 {
 	"name": "knowzahid",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Simply run \"npx knowzahid\". Hola! you got me in the terminal.",
 	"main": "index.js",
 	"bin": {
