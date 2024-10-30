@@ -1,0 +1,22 @@
+{
+	"name": "knowzahid",
+	"version": "1.0.0",
+	"description": "Simply run \"npx knowzahid\". Hola! you got me in the terminal.",
+	"main": "index.js",
+	"bin": {
+		"knowzahid": "index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zahidshowrav/knowzahid.git"
+	},
+	"keywords": [
+		"NodeCLI"
+	],
+	"author": "zahidshowrav",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/zahidshowrav/knowzahid/issues"
+	},
+	"homepage": "https://github.com/zahidshowrav/knowzahid#readme"
+}
