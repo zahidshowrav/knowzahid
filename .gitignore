@@ -1,0 +1,17 @@
+/node_modules
+
+*.orig
+.*.swp
+.DS_Store
+.hg
+.lock-wscript
+.npmrc
+.svn
+.wafpickle-N
+CVS
+config.gypi
+node_modules
+npm-debug.log
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
