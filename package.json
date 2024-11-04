@@ -2,7 +2,7 @@
 	"name": "knowzahid",
 	"version": "1.0.1",
 	"description": "Simply run \"npx knowzahid\". Hola! you got me in the terminal.",
-	"main": "index.js",
+	"type": "module",
 	"bin": {
 		"knowzahid": "index.js"
 	},
@@ -18,5 +18,8 @@
 	"bugs": {
 		"url": "https://github.com/zahidshowrav/knowzahid/issues"
 	},
-	"homepage": "https://github.com/zahidshowrav/knowzahid#readme"
+	"homepage": "https://github.com/zahidshowrav/knowzahid#readme",
+	"dependencies": {
+		"chalk": "^5.3.0"
+	}
 }
