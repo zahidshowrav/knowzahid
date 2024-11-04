@@ -1,5 +1,13 @@
 #!/usr/bin/env node
-console.log(`
+// import { name } from './package.json' assert { type: "json" };
+
+import chalk from 'chalk';
+const name = process.env.npm_package_name;
+const log = console.log;
+log(`
+    ${chalk.blue(name)}
+`);
+log(`
     Zahid R. Showrav
 
     JavaScript Enthusiast and Full-Stack Developer.
